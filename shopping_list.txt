@@ -1,5 +1,5 @@
-1. Coca-Cola
-2. Fanta
-3. Sprite
-4. Schweppes
-5. Pepsi
+1. Coca-Cola x 2
+2. Fanta x 4
+3. Sprite x 5
+4. Schweppes x 4
+5. Pepsi x 2
